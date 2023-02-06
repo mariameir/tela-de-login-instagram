@@ -1,6 +1,6 @@
 # Tela de login Instagram 
 
-Desenvolvimento da login page do Instagram. Utilizando o CSS Flexible Box Layout, um layout flexível permite que os elementos responsivos dentro de um contêiner sejam organizados automaticamente.
+Desenvolvimento da página login do Instagram. Utilizando o CSS Flexible Box Layout, um layout flexível permite que os elementos responsivos dentro de um contêiner sejam organizados automaticamente.
 
 
    
